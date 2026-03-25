@@ -130,6 +130,10 @@ The results provide valuable insights into customer churn and support data-drive
 
 ---
 
+Dataset Link:
+https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
+---
+
 ## Author
 **Diala Hussein**  
 DSAI 4103 – Business Analytics
